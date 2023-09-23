@@ -1,0 +1,22 @@
+.container {
+}
+.js-container {
+  margin-top: 50px;
+  display: flex;
+  column-gap: 20px;
+}
+.box {
+  width: 300px;
+  height: 300px;
+}
+.js-box {
+}
+.item-red {
+  background: red;
+}
+.item-green {
+  background: green;
+}
+.item-black {
+  background: black;
+}
